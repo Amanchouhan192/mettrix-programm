@@ -1,2 +1,2 @@
 # mettrix-programm
-this is the mttrix programm trail
+this is the mttrix programm trial
